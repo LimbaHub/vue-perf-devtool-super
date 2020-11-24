@@ -10,4 +10,4 @@ Develop base on https://github.com/vue-perf-devtool/vue-perf-devtool
 - 在node_modules/vue/dist/vue.runtime.ems.js中找到``` perf.clearMeasures(name) ```，把注释取消掉
 - 关闭vue devtools扩展
 - 加载页面，或触发vue组件更新后，应能看到如下效果：
-![avatar] https://raw.githubusercontent.com/LimbaHub/vue-perf-devtool-super/main/vue-perf-devtool-super.png
+![avatar](https://raw.githubusercontent.com/LimbaHub/vue-perf-devtool-super/main/vue-perf-devtool-super.png)
